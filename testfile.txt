@@ -4,6 +4,12 @@ Line3
 Line4
 Line5
 
+Clean ... change 1 - dev 1
+
 Change 1 by Dev 2  without doing a pull. Dev 2 made change on the initial clean file. 
 Testing merge functinality.
 As expected the commit failed.
+
+Merged both the changes into this file.
+
+..
