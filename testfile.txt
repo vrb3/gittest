@@ -4,8 +4,4 @@ Line3
 Line4
 Line5
 
-<<<<<<< Upstream, based on origin/master
-Commit from the 2nd Developer
-=======
 Commit from the 1st Developer after commit from the 2nd developer. Here we have not done the pull or rebase.
->>>>>>> 755153e Commit from the 1st Developer after commit from the 2nd developer. Here we have not done the pull or rebase.
